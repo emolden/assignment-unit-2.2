@@ -188,7 +188,8 @@ if (temp > 39 || time >= 4) {
 let age = 21;
 const minAge = 21;
 
-//MAYBE FIX the conditional is backwards to the description. I don't think this should effect the output
+//MAYBE FIX the conditional is exactly backwards to the description, so logically the 
+// same as the description. I don't think this should effect the output
 // but to match the descrition it should be age >= minAGE
 //FIX the console.log('enter'); should be after the if statement.
 if(minAge <= age) {
