@@ -26,9 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// We creat a new variable called "name" and assign it the string value "Dane"
+// We check if the name variable is "Mary". 
+// If the name variable is "Mary", we console.log "Hi, Mary!"
+// If the name variable is not "Mary", we console.log "How do you do?"
 //
 
 //CODE
@@ -45,10 +46,15 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We create a variable "secret".
+// We create a variable "code" and assign it the number 123.
+// We check if the variable code is equal to 123.
+// If code is equal to 123, we assign "secret" to string "super" and mutliply 123 (code) by 2.
+// If code is not equal to 123, no change.
+// We check if the variable code is greater than 250.
+// If code is greater than 250, we assign the variable "secret" to string "duper".
+// If code is not greater than 250, no change.
+// We console.log secret. The output will be "super". 
 
 //CODE
 /*
@@ -70,10 +76,17 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We create new variable "isStudent" and assign the boolean "true".
+// We create new variable "age" and assign number "34".
+// We create new variable "zip" and assign number "55407".
+// We check if isStudent is exactly equal to true AND if zip is greater than 80000.
+// If both isStudent is true AND zip is greater than 80000, we console.log "You're a student on the West Coast!".
+// We check if isStudent is exactly equal to false OR if age is less than 30.
+// If isStudent is false OR if age is less than 30, we console.log "What are your hobbies?"
+// We check if isStudent is exactly equal to true.
+// If isStudent is true, we console.log "Welcome to Prime!"
+// If none of the above options are true (which I think is impossible because isStudent has the 
+// option of being true or false), we console.log "How about the weather?"
 
 //CODE
 /*
